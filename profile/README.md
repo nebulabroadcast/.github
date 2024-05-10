@@ -1,10 +1,4 @@
-Nebula Broadcast
-================
+Nebula is an open-source media asset management (MAM) and broadcast automation system.
 
-Since 2008, our team has focused on automation for broadcasters and post-production houses.
-
-Our flagship - Nebula - is an open-source media asset management (MAM) and broadcast automation system.
-
-Robust and reliable, Nebula is more than capable of running non-stop, 
-24/7 multichannel TV or radio broadcasts, and OTT services. 
+Since 2008, it has proven to be robust and reliable, capable of running 24/7 multichannel TV or radio broadcasts and OTT services. 
 Whether you prefer an on-premises or shared environment, Nebula boasts unmatched simplicity, flexibility, and speed.
